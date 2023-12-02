@@ -16,5 +16,3 @@
 #!!!注意将要整理的xray扫描的html报告放入xray_report_dir下，直接运行即可
 python xray_html_to_xlsx.py
 ```
-
-![](.\example.png)
