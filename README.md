@@ -17,4 +17,4 @@
 python xray_html_to_xlsx.py
 ```
 
-![image-20231203005759494](E:\tools\git\xray_html_to_xlsx\image-20231203005759494.png)
+![](.\example.png)
